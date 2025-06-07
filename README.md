@@ -18,7 +18,12 @@ on the Internet, which advertise themselves for just such a use.
 However, the concern with keyloggers is that there are malicious actors behind them. And make
 sure, you don't own an infected device. They don't know they have compromised your computer.
 
+<<<<<<< HEAD
 Saving yourself from these practices
+=======
+Saving yourself from the threat
+
+>>>>>>> 5c21ae9c3e174ff083ba35bae2b77cd365216510
 Avoid keyloggers by avoiding user mistakes that lead to phone and computer
 infections. Start by keeping your operating system, applications, and
 web browser up to date with the latest security patches. Always be aware
@@ -30,6 +35,10 @@ falling prey to this kind of malware.Some types of keyloggers can steal
 passwords you type, take periodic screenshots, record webpages
 viewed, emails sent, instant messaging sessions, and even capture sensitive
 financial information (such as credit card numbers). You can record , PIN code,
+<<<<<<< HEAD
 bank account, etc. and send all this data over the network to a
+=======
+bank account, etc.) and send all this data over the network to a
+>>>>>>> 5c21ae9c3e174ff083ba35bae2b77cd365216510
 remote her computer or her web server. A logging program operator could call up
 everything there and pass it on to a third party for criminal purposes.
